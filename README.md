@@ -7,3 +7,5 @@ Lee detenidamente cada apartado y ve haciendo cada paso tal y como se indica.
 4. Haz una copia del archivo apartado3.html una vez hayas terminado el apartado 3 y nómbralo apartado4.html, e incluye un título y un párrafo dentro del bloque main.
 5. Haz una copia del archivo apartado4.html una vez hayas terminado el apartado 4 y nómbralo apartado5.html, incluye información en el footer.
 6. Haz una copia del archivo apartado5.html una vez hayas terminado el apartado 5 y nómbralo apartado6.html, incluye en el aside una lista ordenada de elementos.
+
+Una vez hayas terminado, comprime dicha carpeta en un zip y súbela a la tarea de Classroom.
